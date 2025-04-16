@@ -1,7 +1,7 @@
 # Introduction to Game Development - Assignment 3
 ## Coin Collection Game
 
-### Main Menu
+Main Menu
 ![image](https://github.com/user-attachments/assets/c1cdcfa9-4688-4a8b-b68e-fd1db207d46c)
 ### Game Start
 ![image](https://github.com/user-attachments/assets/449bd106-64bb-4011-9797-7e34567dc268)
