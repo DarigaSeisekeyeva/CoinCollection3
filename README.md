@@ -1,6 +1,5 @@
 # Introduction to Game Development - Assignment 3
 ## Coin Collection Game
-<br>
 The Coin Collection Game is a friendly 3D Unity project where a player collects coins scattered in a game world while avoiding obstacles.
 ### Main Menu
 ![image](https://github.com/user-attachments/assets/c1cdcfa9-4688-4a8b-b68e-fd1db207d46c)
